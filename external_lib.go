@@ -1,4 +1,4 @@
-package main
+package testing_utilities_for_go
 
 import (
 	"fmt"
